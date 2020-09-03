@@ -1,0 +1,15 @@
+.row {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+ }
+
+img {
+  width:160px;
+  height:170px;
+}
+
+.header{
+  text-align:center;
+  color:#9215D1;
+}
